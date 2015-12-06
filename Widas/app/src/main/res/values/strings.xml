@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Widas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">next</string>
+    <string name="title_activity_about_">About_Activity</string>
+
+    <string name="about_Text">As an innovative IT-consulting company
+        WidasConcepts helps its customers to design business processes
+        successfully. Whether big data, Internet of Things and mobile and web solutions
+        - we provide modern and future-proof concepts and strategies. IT strategy consulting your divisions play
+        across all platforms and devices optimally together. We take care of the business analysis and design modern
+        user interfaces including the conception of software architecture and development. Internet of Things and Mobile
+        Solutions devices and software solutions to support the customer in the background without being noticed at all.
+        For a variety of concepts such as cloud architectures, Big Data and Mobility is the "Internet of Things" emerged.
+        The communication with and knowledge of your / s customers, partners and employees will therefore be more and more
+        in focus. For this, we create smart business solutions that take into account the context of the user, its mobility
+        and local intelligence and inspire him with individual information, recommendations and forecasts. Big Data Consulting
+        We offer the design and development of Big Data solutions from a single source. Let us analyze together your potential
+        benefits and we will create with you an individual Big Data solution that will give you new insights and prospects for
+        your business. Visit us: http://www.widas.de</string>
+
+    <string name="aboutmore">Specialties
+Big Data, Mobility, Social Platforms, sales and service solutions, Internet of Things, IT strategy
+•	Website
+http://www.widas.de/
+•	Industry
+Information Technology and Services
+•	Grade
+Privately Held
+•	Headquarters
+Maybachstraße 2 Wimsheim,Germany 71299 Germany
+•	Company Size
+11-50 employees
+•	Founded
+1997
+
+</string>
+    <string name="aboutdev">Developer- Amareshwar Bhat  amareshwarbhat@gmail.com</string>
+
+
+    <string name="title_activity_gallary">GallaryActivity</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="title_activity_flash__screen">WIDAS</string>
+
+</resources>
