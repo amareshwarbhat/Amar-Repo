@@ -1,9 +1,6 @@
 <snippet>
   <content>
-
-[logo]: https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots%20for%20app/logo.png "WIDAS"
-
-![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots%20for%20app/Splash_Screen.png)
+![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/logo.png)
 
 #WIDAS
 Its an Android Application for a company WIDAS
@@ -108,6 +105,23 @@ Client side : Client can acces the data from the server.
 - Functionality
 - Portability
 - Validation
+
+## Screenshots
+
+![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Splash_Screen.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/AlertBox.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Loading_Progress_Bar.png)
+
+
+![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Navigation_Drawer.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Home_With_Picasso_during_download.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Home_after_download.png)
+
+
+![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Bigdata.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Floating%20Button.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Invalid_message.png)
+
+
+![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/PhoneNumber_Validation.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Tab3.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Gallary_with_Collapsing.png)
+
+
+![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/Blog_WIDAS.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/About%20part2.png)  ![alt tag](https://github.com/amareshwarbhat/Amar-Repo/blob/master/screenshots/About_with_Collapsing.png)
+
 
 ##References
 Retrofit: http://themakeinfo.com/2015/04/android-retrofit-images-tutorial/
